@@ -1,5 +1,6 @@
 # Data Job Market Insights (2024)
-![Data job market analysis 2024](https://github.com/user-attachments/assets/36ed237a-6e8f-40d4-9550-64a15e41cb53)
+![Datajobmarketanalysis2024-1](https://github.com/user-attachments/assets/4634b303-5eab-4cc3-b895-5d4d63ad886f)
+
 
 ## Overview
 This project analyzes the 2024 data job market with a focus on Data Analyst roles. 
@@ -28,6 +29,8 @@ The dashboard is designed to help users understand hiring trends, salary distrib
 - Main Market Overview Dashboard
 - <img width="1369" height="719" alt="overview" src="https://github.com/user-attachments/assets/74427f88-0891-4545-b948-f9a9f83f51d9" />
 
+
 - Role-Specific Drill-Through Page (Data Analyst)
 <img width="1356" height="720" alt="drillthrough" src="https://github.com/user-attachments/assets/755958a0-a86d-4151-b6f8-1be5d7ea1371" />
+
 
