@@ -1,5 +1,5 @@
 # Data Job Salary Analysis Dashboard (Excel)
-![alt text](excel.gif)
+![excel (1)](https://github.com/user-attachments/assets/9514880d-447d-4351-a3a2-f624642fc135)
 
 ## Overview
 This project is an interactive Excel dashboard designed to help job seekers explore salary trends, job availability, and hiring platforms across different data roles, countries, and job types. The dashboard allows users to dynamically filter job market data and instantly view updated insights.
@@ -37,10 +37,10 @@ The main goal of this project is to:
 ## Dashboard Preview
 
 ### Main Dashboard View
-![alt text](<Screenshot 2026-01-20 092556.png>)
+<img width="1776" height="585" alt="Screenshot 2026-01-20 092556" src="https://github.com/user-attachments/assets/8c304ca8-c031-4f36-b275-be30df507d92" />
 
 ### Filter Interaction Example
-<video controls src="Screen Recording 2026-01-20 092932.mp4" title="Title"></video>
+https://github.com/user-attachments/assets/cf91c339-c998-4312-941b-b22205786204
 
 ## How to Use
 1. Select a Job Title using the dropdown menu  
