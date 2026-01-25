@@ -57,9 +57,6 @@ The main goals of this project are to:
 ### Main Dashboard View  
 <img width="1626" height="526" alt="Dashboard-excel-2" src="https://github.com/user-attachments/assets/5bc94711-47a1-42a5-919d-80659c7a3d7b" />
 
-### Skill Analysis Section  
-<img width="522" height="159" alt="Skill Analysis -excel-2" src="https://github.com/user-attachments/assets/db666b7b-f620-4d57-a507-089d60993513" />
-
 
 ---
 
