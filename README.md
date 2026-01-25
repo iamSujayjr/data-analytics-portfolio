@@ -1,96 +1,121 @@
-# Data Analytics Portfolio
+# Data Analytics Portfolio  
 
-Welcome to my data analytics portfolio. This repository contains end-to-end projects built using real-world datasets to demonstrate my skills in data analysis, visualization, and business insight generation.
+Welcome to my Data Analytics Portfolio. This repository showcases end-to-end analytics projects built using real-world datasets to demonstrate practical skills in data analysis, visualization, and business insight generation.
 
-My focus is on transforming raw data into meaningful insights using industry-relevant tools and analytical techniques.
+My work focuses on transforming raw data into meaningful, decision-ready insights using structured analytical workflows and industry-relevant tools.
 
 ---
 
-## Skills & Tools
+## Skills & Tools  
 
-### Data Analysis
+### Core Analytics Skills  
 - Data Cleaning & Preparation  
 - Exploratory Data Analysis (EDA)  
 - KPI Development  
 - Business Insight Generation  
+- Dashboard Design & Storytelling  
 
-### Tools & Technologies
-- Excel (Dashboards, Data Validation, Formulas)  
-- SQL (Joins, CTEs, Aggregations, Ranking Queries)  
-- Power BI (Interactive Dashboards, Drill-through, Data Modeling)  
+### Tools & Technologies  
+- Excel (Dashboards, Power Query, Pivot Tables, Power Pivot, Data Validation)  
+- SQL (PostgreSQL, SQLite | Joins, CTEs, Aggregations, Ranking Queries)  
+- Power BI (Data Modeling, DAX Measures, Parameters, Interactive Dashboards)  
+- VS Code (SQL Development Environment)  
+- GitHub (Version Control & Portfolio Management)  
 
 ---
 
-## Projects
+## Featured Projects  
 
-### 1. Data Job Market Insights Dashboard (Power BI)
+### 1. Data Job Market Insights (2024) — Power BI (Advanced)  
 **Tool:** Power BI  
 
-**Description:**  
-An interactive dashboard analyzing salary trends, job demand, and role-based insights in the global data job market (2024). Includes drill-through navigation for detailed job role exploration.
+An advanced business intelligence dashboard analyzing salary trends, job demand, and skill requirements across data roles.
 
-**Key Highlights:**
-- Dynamic job role filtering  
-- Salary trend analysis  
-- Drill-through job explorer page  
-- Interactive KPI cards  
+**Impact & Highlights:**  
+- Built DAX-powered KPIs for salary and job metrics  
+- Implemented parameter-driven visual switching  
+- Designed optimized data model with centralized measures  
+- Enabled dynamic role and location-based analysis  
 
-📁 Folder: `PowerBI/Data-Job-Market-Insights-2024`
-
----
-
-### 2. Data Job Market Analysis Using SQL (2023)
-**Tool:** PostgreSQL  
-
-**Description:**  
-A SQL-based analytical project focused on understanding the Data Analyst job market in India using real LinkedIn job posting data.
-
-**Key Analysis Areas:**
-- Top paying Data Analyst roles  
-- Skills required for high-paying positions  
-- Most in-demand skills  
-- Salary-based skill ranking  
-- Optimal skill selection using demand vs salary modeling  
-
-📁 Folder: `SQL/Data-job-market-analysis-SQL-2023`
+👉 View Project: [Open Folder](PowerBI/Data-Job-Market-Insights-2024-PowerBI)  
 
 ---
 
-### 3. Data Job Salary Analysis Dashboard (Excel)
+### 2. Data Job Market Insights Dashboard (2024) — Power BI  
+**Tool:** Power BI  
+
+An exploratory analytics dashboard focused on hiring trends, salary distribution, geographic patterns, and role-level insights.
+
+**Impact & Highlights:**  
+- Created interactive slicers and KPI summary views  
+- Implemented drill-through navigation for role-level analysis  
+- Visualized monthly hiring trends and salary comparisons  
+
+👉 View Project: [Open Folder](PowerBI/Data-Job-Market-Insights-2024)  
+
+---
+
+### 3. Data Job Market Analysis Using SQL (2023)  
+**Tool:** PostgreSQL, SQLite  
+
+A SQL-based analytical project focused on extracting career-oriented insights from job posting data.
+
+**Impact & Highlights:**  
+- Identified SQL as the most in-demand skill across Data Analyst roles in India  
+- Analyzed skill demand and salary relationships  
+- Built modular CTE-based queries for scalable analysis  
+
+👉 View Project: [Open Folder](SQL/Data-job-market-analysis-SQL-2023)  
+
+---
+
+### 4. Data Job Salary Analysis Dashboard — Excel  
 **Tool:** Microsoft Excel  
 
-**Description:**  
-An interactive Excel dashboard that allows users to analyze salary trends, job counts, and hiring platforms by selecting job roles, countries, and job types.
+An interactive Excel dashboard designed to analyze salary trends, job volume, and hiring platforms across data roles.
 
-**Key Highlights:**
-- Interactive dropdown filters  
-- Automated KPI calculations  
-- Salary comparison charts  
-- Protected backend sheets  
-- User-friendly dashboard design  
+**Impact & Highlights:**  
+- Built dynamic dropdown-based filtering system  
+- Created automated KPI calculations  
+- Designed protected backend sheets for data integrity  
 
-📁 Folder: `Excel/Data-Job-Salary-Analysis-Dashboard-Excel`
+👉 View Project: [Open Folder](Excel/Data-job-salary-calculator)  
 
 ---
 
-## About Me
+### 5. Global Data Job Market Dashboard — Salary, Demand & Skill ROI (Excel)  
+**Tool:** Microsoft Excel  
 
-I am an aspiring Data Analyst with strong interest in transforming data into actionable business insights. I enjoy working with real-world datasets and building interactive dashboards that support decision-making.
+An advanced Excel-based business intelligence dashboard analyzing global job demand, salary benchmarks, and skill ROI.
 
-Currently focusing on strengthening my skills in:
-- SQL Analytics  
-- Dashboard Design  
-- Data Visualization  
-- Business Intelligence  
+**Impact & Highlights:**  
+- Applied Power Query for data transformation  
+- Built Power Pivot data model with DAX measures  
+- Developed ROI-based skill ranking system  
+
+👉 View Project: [Open Folder](Excel/Global-Data-Job-Market-Dashboard-Salary-Demand-ROI)  
 
 ---
 
-## Contact
+## Current Focus  
+
+Currently focusing on Python-based analytics automation and advanced BI modeling.
+
+---
+
+## About Me  
+
+I am an aspiring Data Analyst passionate about solving business problems using data. I enjoy working with real-world datasets and building interactive dashboards that support data-driven decision-making.
+
+I am actively seeking internship and entry-level opportunities where I can apply my analytical skills and continue learning in a professional environment.
+
+---
+
+## Contact  
 
 GitHub: https://github.com/iamSujayjr  
-Location: Coimbatore, Tamil Nadu, India  
+Location: Coimbatore,India  
 
 ---
 
-Thank you for visiting my portfolio.
-
+Thank you for visiting my portfolio.  
