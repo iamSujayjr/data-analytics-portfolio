@@ -1,4 +1,5 @@
 # Data Job Market Insights (2024) — Power BI Dashboard
+![Datajobmarketanalysis2024-2](https://github.com/user-attachments/assets/51f6ea38-d992-4691-b1d7-b47b49af1431)
 
 ## Project Overview  
 This project analyzes the data job market to identify trends related to salaries, job demand, and skill requirements. The interactive dashboard allows users to explore insights by selecting different job roles and locations.
@@ -39,13 +40,8 @@ The main goal of this project is to transform raw job posting data into meaningf
 ---
 
 ## Dashboard Preview  
+<img width="1375" height="730" alt="Dashboard-Power BI-2" src="https://github.com/user-attachments/assets/19ace8bf-ca2f-4abe-91d3-9dce05eca369" />
 
-Main Dashboard:  
-Refer to `overview.png`  
+
 
 ---
-
-## Author  
-
-Sujay (iamSujayjr)  
-Aspiring Data Analyst  
