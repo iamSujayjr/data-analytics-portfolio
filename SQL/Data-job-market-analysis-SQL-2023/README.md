@@ -65,13 +65,18 @@ The analysis answers the following business-focused questions:
 Data-job-market-analysis-SQL-2023
 │
 ├── README.md
-└── queries/
-├── query_01_top_paying_roles.sql
-├── query_02_top_skills_for_roles.sql
-├── query_03_in_demand_skills.sql
-├── query_04_salary_by_skill.sql
-└── query_05_optimal_skills.sql
 
+└── queries/
+
+├── query_01_top_paying_roles.sql
+
+├── query_02_top_skills_for_roles.sql
+
+├── query_03_in_demand_skills.sql
+
+├── query_04_salary_by_skill.sql
+
+└── query_05_optimal_skills.sql
 
 ---
 
@@ -81,5 +86,6 @@ Data-job-market-analysis-SQL-2023
 - Salary calculations exclude null values for accurate aggregation  
 - CTEs are used to improve query readability and scalability  
 - Designed to simulate real-world analytical SQL workflows  
+
 
 
