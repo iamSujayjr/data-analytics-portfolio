@@ -1,7 +1,7 @@
 # Global Data Job Market Dashboard — Salary, Demand & Skill ROI (Excel)
 ![Excel-2 1-gif](https://github.com/user-attachments/assets/3beed5e6-d563-4bad-b466-3606d89493d5)
 
-## Overview  
+## Project Overview  
 This project is an interactive Excel-based business intelligence dashboard designed to analyze the global data job market. It helps users explore job demand trends, salary benchmarks, and high-value skills using dynamic filters and real job posting data.
 
 The dashboard allows users to slice data by role, country, and time period to instantly generate insights for career planning and market research.
