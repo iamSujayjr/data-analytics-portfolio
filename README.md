@@ -94,7 +94,7 @@ Unlike traditional analysis projects, this project involved custom dataset engin
 * SENA Overseas Analysis
 * Timeline & Era Evolution
 
-👉 View Project: [Open Folder](Python/Red-Ball-Intelligence)
+👉 View Project: [Open Folder](./Python/Red-Ball-Intelligence)
 
 ---
 
@@ -121,7 +121,7 @@ The dashboard explores team performance, overseas challenges, opponent analysis,
 * India in SENA Conditions
 * Era & Performance Evolution
 
-👉 View Project: [Open Folder](PowerBI/Red-Ball-Intelligence)
+👉 View Project: [Open Folder](./PowerBI/Red-Ball-Intelligence)
 
 ---
 
@@ -138,7 +138,7 @@ A Python-based analytics project exploring trends in the global data job market 
 * Built country-wise demand analysis
 * Visualized experience-level salary relationships
 
-👉 View Project: [Open Folder](Python/Data-job-market-analysis-Python-2023)
+👉 View Project: [Open Folder](./Python/Data-job-market-analysis-Python-2023)
 
 ---
 
@@ -155,7 +155,7 @@ An advanced business intelligence dashboard analyzing salary trends, job demand,
 * Designed optimized data model with centralized measures
 * Enabled dynamic role and location-based analysis
 
-👉 View Project: [Open Folder](PowerBI/Data-Job-Market-Insights-2024-PowerBI)
+👉 View Project: [Open Folder](./PowerBI/Data-Job-Market-Insights-2024-PowerBI)
 
 ---
 
@@ -171,7 +171,7 @@ An exploratory analytics dashboard focused on hiring trends, salary distribution
 * Implemented drill-through navigation for role-level analysis
 * Visualized monthly hiring trends and salary comparisons
 
-👉 View Project: [Open Folder](PowerBI/Data-Job-Market-Insights-2024)
+👉 View Project: [Open Folder](./PowerBI/Data-Job-Market-Insights-2024)
 
 ---
 
@@ -187,7 +187,7 @@ A SQL-based analytical project focused on extracting career-oriented insights fr
 * Analyzed skill demand and salary relationships
 * Built modular CTE-based analytical queries
 
-👉 View Project: [Open Folder](SQL/Data-job-market-analysis-SQL-2023)
+👉 View Project: [Open Folder](./SQL/Data-job-market-analysis-SQL-2023)
 
 ---
 
@@ -203,7 +203,7 @@ An interactive Excel dashboard designed to analyze salary trends, job volume, an
 * Created automated KPI calculations
 * Designed protected backend sheets for data integrity
 
-👉 View Project: [Open Folder](Excel/Data-Job-Salary-Analysis-Dashboard-Excel)
+👉 View Project: [Open Folder](./Excel/Data-Job-Salary-Analysis-Dashboard-Excel)
 
 ---
 
@@ -219,43 +219,51 @@ An advanced Excel-based business intelligence dashboard analyzing global job dem
 * Built Power Pivot data model with DAX measures
 * Developed ROI-based skill ranking system
 
-👉 View Project: [Open Folder](Excel/Global-Data-Job-Market-Dashboard-Salary-Demand-ROI-2023)
-```
-
+👉 View Project: [Open Folder](./Excel/Global-Data-Job-Market-Dashboard-Salary-Demand-ROI-2023)
 
 ---
 
 # 📌 Current Focus
 
-Currently focusing on:
+Currently focused on expanding expertise in:
 
-* advanced Python-based analytics engineering
-* data modeling workflows
-* sports analytics
-* Power BI storytelling systems
-* scalable analytical pipelines
+* Python-based analytical engineering
+* Advanced Power BI storytelling systems
+* Sports analytics and performance modeling
+* Scalable data transformation workflows
+* Business intelligence and data modeling
+* End-to-end analytics project architecture
 
 ---
 
 # 👨‍💻 About Me
 
-I am an aspiring Data Analyst passionate about solving real-world problems using data.
+I am an aspiring Data Analyst passionate about building analytical systems that transform raw data into meaningful insights and decision-ready storytelling.
 
-I enjoy:
+My interests include:
 
-* transforming raw datasets into analytical systems
-* building interactive dashboards
-* engineering reusable datasets
-* designing storytelling-oriented analytics workflows
+* analytical data engineering
+* interactive dashboard development
+* business intelligence workflows
+* sports and domain-specific analytics
+* scalable data transformation pipelines
 
-I am actively seeking internship and entry-level opportunities where I can apply my analytical skills and continue learning in a professional environment.
+I enjoy working on projects that combine:
+
+* data cleaning
+* feature engineering
+* visualization
+* storytelling
+* real-world analytical problem solving
+
+Currently seeking internship and entry-level opportunities to apply and further develop practical analytics and business intelligence skills.
 
 ---
 
 # 📬 Contact
 
-GitHub: [iamSujayjr GitHub Profile](https://github.com/iamSujayjr?utm_source=chatgpt.com)
-Location: Coimbatore, India
+* GitHub: [iamSujayjr](https://github.com/iamSujayjr)
+* Location: Coimbatore, India
 
 ---
 
