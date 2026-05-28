@@ -34,15 +34,15 @@ The portfolio includes:
 
 ### Programming & Analytics
 
-* Python (Pandas, NumPy, Matplotlib, Seaborn)
+* Python (Pandas, Matplotlib, Seaborn)
 
 ### Database Management
 
-* SQL (PostgreSQL, SQLite)
+* SQL (SQLite, PostgreSQL)
 
 ### Business Intelligence & Visualization
 
-* Power BI (DAX, Data Modeling, Parameters, Interactive Dashboards)
+* Power BI (Data Modeling, Parameters, Interactive Dashboards, DAX)
 * Microsoft Excel (Power Query, Power Pivot, Pivot Tables, Dashboards)
 
 ### Development & Workflow
@@ -100,7 +100,7 @@ Unlike traditional analysis projects, this project involved custom dataset engin
 
 # 📊 2. Red Ball Intelligence Dashboard — Power BI
 
-**Tool:** Power BI, DAX
+**Tool:** Power BI
 
 A storytelling-oriented cricket analytics dashboard built on top of engineered Python datasets.
 
