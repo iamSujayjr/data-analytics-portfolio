@@ -121,7 +121,7 @@ The dashboard explores team performance, overseas challenges, opponent analysis,
 * India in SENA Conditions
 * Era & Performance Evolution
 
-👉 View Project: [Open Folder](PowerBI/Red-Ball-Intelligence-Dashboard)
+👉 View Project: [Open Folder](PowerBI/Red-Ball-Intelligence)
 
 ---
 
