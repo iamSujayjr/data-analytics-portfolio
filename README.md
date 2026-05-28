@@ -138,7 +138,7 @@ A Python-based analytics project exploring trends in the global data job market 
 * Built country-wise demand analysis
 * Visualized experience-level salary relationships
 
-👉 View Project: [Open Folder](Python/Data-Job-Market-Analysis)
+👉 View Project: [Open Folder](Python/Data-Job-Market-Analysis-Python-2023)
 
 ---
 
@@ -203,7 +203,7 @@ An interactive Excel dashboard designed to analyze salary trends, job volume, an
 * Created automated KPI calculations
 * Designed protected backend sheets for data integrity
 
-👉 View Project: [Open Folder](Excel/Data-job-salary-calculator)
+👉 View Project: [Open Folder](Excel/Data-job-salary-Analysis-Dashboard-Excel)
 
 ---
 
@@ -219,7 +219,7 @@ An advanced Excel-based business intelligence dashboard analyzing global job dem
 * Built Power Pivot data model with DAX measures
 * Developed ROI-based skill ranking system
 
-👉 View Project: [Open Folder](Excel/Global-Data-Job-Market-Dashboard-Salary-Demand-ROI)
+👉 View Project: [Open Folder](Excel/Global-Data-Job-Market-Dashboard-Salary,Demand&ROI(2023))
 
 ---
 
