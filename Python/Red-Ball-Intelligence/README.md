@@ -45,22 +45,22 @@ The engineered datasets later serve as the foundation for Power BI dashboard vis
 
 # 📂 Project Structure
 
+```text
 Red-Ball-Intelligence/
-
 │
-├── CSVs/
+├── CSVs
 │   ├── master_test_dataset.csv
 │   ├── master_test_dataset_1.csv
 │   └── team_view_dataset.csv
 │
-├── Outputs/
-│   ├── match_analysis/
-│   ├── series_analysis/
-│   ├── opponent_analysis/
-│   ├── sena_analysis/
-│   └── timeline_analysis/
+├── Outputs
+│   ├── match_analysis
+│   ├── series_analysis
+│   ├── opponent_analysis
+│   ├── sena_analysis
+│   └── timeline_analysis
 │
-├── Scripts/
+├── Scripts
 │   ├── 00_master_dataset_builder.ipynb
 │   ├── 01_match_Analysis.ipynb
 │   ├── 02_Series_Analysis.ipynb
@@ -69,6 +69,9 @@ Red-Ball-Intelligence/
 │   └── 05_team_view_dataset_builder.ipynb
 │
 └── README.md
+```
+
+
 ```
 
 ---
@@ -259,9 +262,3 @@ Special thanks to ChatGPT for:
 The core analysis, engineering decisions, workflow execution, and project development were independently implemented and validated throughout the project lifecycle.
 
 ---
-
-# 👨‍💻 Author
-
-Sujay
-
-Built using Python and Cricket Analytics.
