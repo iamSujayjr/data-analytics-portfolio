@@ -219,8 +219,7 @@ An advanced Excel-based business intelligence dashboard analyzing global job dem
 * Built Power Pivot data model with DAX measures
 * Developed ROI-based skill ranking system
 
-```md id="o7d4lm"
-👉 View Project: [Open Folder](./Excel/Global-Data-Job-Market-Dashboard-Salary-Demand-ROI-2023)
+👉 View Project: [Open Folder](Excel/Global-Data-Job-Market-Dashboard-Salary-Demand-ROI-2023)
 ```
 
 
